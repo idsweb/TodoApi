@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/14e78cc9-231c-4e48-9bf3-0137929ffb8c/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ids-fusion-webapi",
+    "appService.deploySubpath": "publish"
+}
